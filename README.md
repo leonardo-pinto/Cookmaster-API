@@ -38,7 +38,7 @@ Este projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, c
 
 # Habilidades
 
-Neste projeto, os seguintes tópico foram abordados:
+Neste projeto, os seguintes tópicos foram abordados:
 
 - Entender o que há por dentro de um token de autenticação;
 
@@ -97,7 +97,7 @@ Para executar o projeto, é necessário ter o `MongoDB` instalado e configurado.
 
 - `npm start`
 
-## Executando os tests
+## Executando os testes
 
 1. Rodando os testes
 
