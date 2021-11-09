@@ -8,10 +8,10 @@ Este projeto foi desenvolvido durante o curso de desenvolvimento web da Trybe, c
 
 - [Boas vindas ao repositório do projeto Cookmaster!](#boas-vindas-ao-repositório-do-projeto-cookmaster)
 - [Habilidades](#habilidades)
-  - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
+  - [O que foi desenvolvido](#o-que-foi-desenvolvido)
   - [Desenvolvimento](#desenvolvimento)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
+- [Instruções para executar o projeto](#instruções-para-executar-o-projeto)
+  - [Executando o projeto localmente](#executando-o-projeto-localmente)
   - [Durante o desenvolvimento](#durante-o-desenvolvimento)
 - [Como desenvolver](#como-desenvolver)
   - [Todos os seus endpoints devem estar no padrão REST](#todos-os-seus-endpoints-devem-estar-no-padrão-rest)
@@ -89,7 +89,7 @@ Para executar o projeto, é necessário ter o `MongoDB` instalado e configurado.
 - Entre na pasta do repositório que você acabou de clonar:
   - `cd Cookmaster-API`
 
-2. Instale as dependências [**Caso existam**]
+2. Instale as dependências.
 
 - `npm install`
 
